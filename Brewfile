@@ -1,6 +1,7 @@
 tap 'caskroom/cask'
 tap 'homebrew/bundle'
 tap 'homebrew/core'
+brew 'git'
 brew 'cscope'
 brew 'xz'
 brew 'libpng'
